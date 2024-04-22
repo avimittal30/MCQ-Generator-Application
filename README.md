@@ -1,2 +1,2 @@
-# MCQGEN
-MCQ generator
+# MCQGen
+# MCQ Generator using LLMs
